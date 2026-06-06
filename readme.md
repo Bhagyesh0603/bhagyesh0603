@@ -179,7 +179,7 @@ const bhagyesh = {
   <img src="https://img.shields.io/badge/Email-Reach%20Me-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
 </a>
 &nbsp;
-<a href="www.linkedin.com/in/bhagyesh-joshi-78451831a">
+<a href="https://www.linkedin.com/in/bhagyesh-joshi-78451831a">
   <img src="https://img.shields.io/badge/LinkedIn-Bhagyesh%20Joshi-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" />
 </a>
 
