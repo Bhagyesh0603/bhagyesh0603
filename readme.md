@@ -83,21 +83,21 @@ const bhagyesh = {
 ### ⛓ Web3 & Blockchain
 <img src="https://skillicons.dev/icons?i=rust&theme=dark" />
 &nbsp;
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
 
 ### 🤖 ML / AI & Scraping
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" />
 &nbsp;
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,github,git,linux,nginx&theme=dark" />
@@ -175,11 +175,11 @@ const bhagyesh = {
   <img src="https://img.shields.io/badge/GitHub-Bhagyesh0603-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:joshibhagyesh06@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach%20Me-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+<a href="www.linkedin.com/in/bhagyesh-joshi-78451831a">
   <img src="https://img.shields.io/badge/LinkedIn-Bhagyesh%20Joshi-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" />
 </a>
 
