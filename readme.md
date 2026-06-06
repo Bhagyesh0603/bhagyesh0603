@@ -114,7 +114,7 @@ const bhagyesh = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bhagyesh0603&show_icons=true&theme=midnight-purple&bg_color=0f0c29&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bhagyesh0603&show_icons=true&theme=midnight-purple&bg_color=0f0c29&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&hide_border=false" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Bhagyesh0603&theme=midnight-purple&background=0f0c29&border=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&dates=ffffff&sideLabels=a78bfa" />
 
 <br/>
