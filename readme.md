@@ -17,7 +17,7 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Bhagyesh0603&style=for-the-badge&color=a78bfa&label=Profile+Views&labelColor=0f0c29" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collab-22c55e?style=for-the-badge&labelColor=0f0c29&logo=handshake" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collab-22c55e?style=for-the-badge&labelColor=0f0c29&logo=statuspage&logoColor=white" />
 
 </div>
 
@@ -75,24 +75,29 @@ const bhagyesh = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux&theme=dark" />
 
 ### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=flutter,react,dart,kotlin,swift&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,swift&theme=dark" />
 
 ### 🔧 Backend & APIs
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,fastapi,python&theme=dark" />
 
 ### ⛓ Web3 & Blockchain
-<img src="https://skillicons.dev/icons?i=solidity,ethereum,rust&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" />
+&nbsp;
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 ### 🤖 ML / AI & Scraping
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" />
+&nbsp;
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,github,git,linux,nginx&theme=dark" />
@@ -110,11 +115,11 @@ const bhagyesh = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bhagyesh0603&show_icons=true&theme=midnight-purple&bg_color=0f0c29&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Bhagyesh0603&theme=midnight-purple&background=0f0c29&border=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&dates=ffffff" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Bhagyesh0603&theme=midnight-purple&background=0f0c29&border=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&dates=ffffff&sideLabels=a78bfa" />
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyesh0603&layout=donut&theme=midnight-purple&bg_color=0f0c29&border_color=a78bfa&title_color=a78bfa&text_color=ffffff&hide_border=false" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyesh0603&layout=compact&theme=midnight-purple&bg_color=0f0c29&border_color=a78bfa&title_color=a78bfa&text_color=ffffff&hide_border=false&langs_count=8" />
 
 </div>
 
@@ -124,7 +129,7 @@ const bhagyesh = {
 ## 📈 &nbsp;`Commits.timeline()`
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagyesh0603&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=false&border_color=a78bfa" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagyesh0603&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=302b63&hide_border=false&border_color=a78bfa&radius=8" />
 </div>
 
 ---
@@ -167,15 +172,15 @@ const bhagyesh = {
 <div align="center">
 
 <a href="https://github.com/Bhagyesh0603">
-  <img src="https://img.shields.io/badge/GitHub-Bhagyesh0603-0f0c29?style=for-the-badge&logo=github&logoColor=white&color=a78bfa&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/GitHub-Bhagyesh0603-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" />
 </a>
 &nbsp;
-<a href="mailto:bhagyesh@example.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Me-0f0c29?style=for-the-badge&logo=gmail&logoColor=white&color=a78bfa&labelColor=0f0c29" />
+<a href="mailto:YOUR_EMAIL_HERE">
+  <img src="https://img.shields.io/badge/Email-Reach%20Me-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/bhagyesh-joshi">
-  <img src="https://img.shields.io/badge/LinkedIn-Bhagyesh%20Joshi-0f0c29?style=for-the-badge&logo=linkedin&logoColor=white&color=a78bfa&labelColor=0f0c29" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-Bhagyesh%20Joshi-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" />
 </a>
 
 </div>
