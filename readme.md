@@ -175,7 +175,7 @@ const bhagyesh = {
   <img src="https://img.shields.io/badge/GitHub-Bhagyesh0603-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" />
 </a>
 &nbsp;
-<a href="mailto:joshibhagyesh06@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=joshibhagyesh06@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Reach%20Me-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
 </a>
 &nbsp;
